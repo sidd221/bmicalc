@@ -1,0 +1,1 @@
+I designed and implemented a BMI calculator using HTML, CSS, and JavaScript for my portfolio website. This project showcases my ability to create interactive web applications and promote health awareness through technology. The calculator allows users to input their height and weight to calculate their BMI instantly
